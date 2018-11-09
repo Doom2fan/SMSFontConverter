@@ -1,0 +1,15 @@
+.dub
+dub.selections.json
+docs.json
+__dummy.html
+docs/
+smsfontconverter.so
+smsfontconverter.dylib
+smsfontconverter.dll
+smsfontconverter.a
+smsfontconverter.lib
+smsfontconverter-test-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,11 @@
+{
+	"name": "smsfontconverter",
+	"authors": [ "Chronos \"phantombeta\" Ouroboros" ],
+	"description": "A program for generating Sega Master System fonts.",
+	"copyright": "Copyright © 2018, Chronos \"phantombeta\" Ouroboros",
+	"license": "GPL3",
+
+    "dependencies": {
+        "dlib": "*"
+    }
+}
